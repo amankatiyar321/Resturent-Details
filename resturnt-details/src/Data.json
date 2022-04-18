@@ -1,0 +1,360 @@
+[
+    {
+      "name": "Hauz Khas Social",
+      "cat": "Continental, American, Asian, North Indian",
+      "cost": "800",
+      "cost_for_two":"1600",
+      "time": "25",
+      "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+      "min": "50",
+      "votes": "7931",
+      "reviews": "1231",
+      "rating": "4",
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+    }
+    },
+    {
+      "name": "Qubitos - The Terrace Cafe",
+      "cat": "Thai, European, Mexican, North Indian, Chinese, Cafe",
+      "cost": "750",
+      "cost_for_two":"1500",
+      "time": "30",
+      "image": "https://b.zmtcdn.com/data/pictures/7/18037817/235a118e0c275deae64db9a2a4b3d6a2_featured_v2.png",
+      "min": "80",
+      "votes": "778",
+      "reviews": "1121",
+      "rating": "4.5",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+    }
+    },
+    {
+      "name": "The Hudson Cafe",
+      "cat": "Cafe, Italian, Continental, Chinese",
+      "cost": "425",
+      "cost_for_two":"850",
+      "time": "30",
+      "image": "https://b.zmtcdn.com/data/pictures/5/312345/0345d29e190502c100190e455b4334a7_featured_v2.jpg",
+      "min": "50",
+      "votes": "1537",
+      "reviews": "1321",
+      "rating": "4.4",
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": false
+    }
+    },
+    {
+      "name": "Summer House Cafe",
+      "cat": "Italian, Continental",
+      "cost": "900",
+      "cost_for_two":"1800",
+      "time": "20",
+      "image": "https://b.zmtcdn.com/data/pictures/0/307490/e00bae6487490c53d94f6bf18aa85a62_featured_v2.jpg",
+      "min": "60",
+      "votes": "1823",
+      "reviews": "1011",
+      "rating": "4.1",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+    }
+    },
+    {
+      "name": "38 Barracks",
+      "cat": "North Indian, Italian, Asian, American",
+      "cost": "800",
+      "cost_for_two":"1600",
+      "time": "25",
+      "image": "https://b.zmtcdn.com/data/pictures/7/18241537/9f5a933de4086e99a0917d4b659d7537_featured_v2.jpg",
+      "min": "70",
+      "votes": "840",
+      "reviews": "950",
+      "rating": "4.4",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+    }
+    },
+    {
+      "name": "Spezia Bistro",
+      "cat": "Cafe, Continental, Chinese, Italian",
+      "cost": "450",
+      "cost_for_two":"900",
+      "time": "20",
+      "image": "https://b.zmtcdn.com/data/pictures/7/18161577/d40268f4980f3e53349bca7055b87124_featured_v2.jpg",
+      "min": "50",
+      "votes": "1071",
+      "reviews": "1211",
+      "rating": "4.6",
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+    }
+    },
+    {
+      "name": "Manhattan Brewery & Bar Exchange",
+      "cat": "Finger Food, American, Continental, North Indian, Italian",
+      "cost": "1000",
+      "cost_for_two":"2000",
+      "time": "30",
+      "image": "https://b.zmtcdn.com/data/pictures/0/303960/3a3246697e182b37a8a51922a89d4192_featured_v2.jpg",
+      "min": "80",
+      "votes": "2093",
+      "reviews": "1111",
+      "rating": "4.6",
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": false
+    }
+    },
+    {
+      "name": "The Wine Company",
+      "cat": "Italian, European",
+      "cost": "1000",
+      "cost_for_two":"2000",
+      "time": "30",
+      "image": "https://b.zmtcdn.com/data/pictures/4/306134/a3808bac6743110762e4cd2b1c60db94_featured_v2.jpg",
+      "min": "70",
+      "votes": "2412",
+      "reviews": "1560",
+      "rating": "2.4",
+      "payment_methods": {
+        "card": false,
+        "cash": false,
+        "upi": true
+    }
+    },
+    {
+      "name": "Indian Grill Room",
+      "cat": "North Indian, Mughlai",
+      "cost": "900",
+      "cost_for_two":"1800",
+      "time": "35",
+      "image": "https://b.zmtcdn.com/data/pictures/8/7528/a56e677f209eefb0537b7672883eac57_featured_v2.jpg",
+      "min": "90",
+      "votes": "1262",
+      "reviews": "1331",
+      "rating": "5",
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": false
+    }
+    },
+    {
+      "name": "Farzi Cafe",
+      "cat": "Modern Indian",
+      "cost": "1100",
+      "cost_for_two":"2200",
+      "time": "30",
+      "image": "https://b.zmtcdn.com/data/pictures/2/308022/7f5971f1a6c617651d871ff02306ed53_featured_v2.jpg",
+      "min": "75",
+      "votes": "4385",
+      "reviews": "2200",
+      "rating": "4.3",
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+    }
+    },
+    {
+      "name": "Molecule Air Bar",
+      "cat": "Continental, North Indian, Italian, Chinese",
+      "cost": "750",
+      "cost_for_two":"1500",
+      "time": "30",
+      "image": "https://b.zmtcdn.com/data/pictures/3/18157413/2c52bcf5b4e2e276130fed24b07416ab_featured_v2.jpg",
+      "min": "50",
+      "votes": "1809",
+      "reviews": "980",
+      "rating": "3.8",
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+    }
+    },
+    {
+      "name": "HotMess",
+      "cat": "North Indian, Mediterranean, Asian, Fast Food",
+      "cost": "800",
+      "cost_for_two":"1600",
+      "time": "20",
+      "image": "https://b.zmtcdn.com/data/pictures/9/18279449/ba64af5f180920b9bed89693a18cdfc5_featured_v2.jpg",
+      "min": "50",
+      "votes": "1129",
+      "reviews": "970",
+      "rating": "4",
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+    }
+    },
+    {
+      "name": "My Bar Headquarters",
+      "cat": "North Indian, Mughlai, Chinese",
+      "cost": "500",
+      "cost_for_two":"1000",
+      "time": "30",
+      "image": "https://b.zmtcdn.com/data/pictures/7/311057/6d34c0e230aced20c74a2100e5b75b96_featured_v2.jpg",
+      "min": "100",
+      "votes": "3010",
+      "reviews": "1333",
+      "rating": "3.7",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": false
+    }
+    },
+    {
+      "name": "FLYP@MTV",
+      "cat": "North Indian, Mexican, Italian, Continental",
+      "cost": "600",
+      "cost_for_two":"1200",
+      "time": "25",
+      "image": "https://b.zmtcdn.com/data/pictures/5/18235515/386e363cee63064288d06ed68148882f_featured_v2.jpg",
+      "min": "60",
+      "votes": "1379",
+      "reviews": "1001",
+      "rating": "3.9",
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+    }
+    },
+    {
+      "name": "Tamasha",
+      "cat": "Finger Food, North Indian, Continental, Italian",
+      "cost": "800",
+      "cost_for_two":"1600",
+      "time": "30",
+      "image": "https://b.zmtcdn.com/data/pictures/8/18238278/5c08b8b6281efd00dcec3894dba551c5_featured_v2.jpg",
+      "min": "55",
+      "votes": "1801",
+      "reviews": "1250",
+      "rating": "3.7",
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+    }
+    },
+    {
+      "name": "The Barbeque Company",
+      "cat": "North Indian, Chinese, Continental",
+      "cost": "600",
+      "cost_for_two":"1200",
+      "time": "30",
+      "image": "https://b.zmtcdn.com/data/pictures/7/17977777/51ddf7b23bd5efd012e351a3de37456f_featured_v2.jpg",
+      "min": "50",
+      "votes": "621",
+      "reviews": "800",
+      "rating": "4.2",
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": false
+    }
+    },
+    {
+      "name": "Saravana Bhavan",
+      "cat": "South Indian",
+      "cost": "250",
+      "cost_for_two":"500",
+      "time": "25",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/9/899/f3c3dd1053778f5c83ce1d704b28904a_featured_v2.jpg",
+      "min": "30",
+      "votes": "5172",
+      "reviews": "1322",
+      "rating": "4.3",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": false
+    }
+    },
+    {
+      "name": "Nawwarah",
+      "cat": "Chinese, Cafe, North Indian, Desserts",
+      "cost": "500",
+      "cost_for_two":"1000",
+      "time": "30",
+      "image": "https://b.zmtcdn.com/data/pictures/2/18377112/9461f6ce9c2ac672d3959dcf6d952a60_featured_v2.jpg",
+      "min": "45",
+      "votes": "326",
+      "reviews": "550",
+      "rating": "2.5",
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+    }
+    },
+    {
+      "name": "Mocambo",
+      "cat": "Continental, Italian, North India",
+      "cost": "525",
+      "cost_for_two":"1050",
+      "time": "35",
+      "image": "https://b.zmtcdn.com/data/pictures/0/20350/175a59103265680af449838fbf2d7ef5_featured_v2.jpg",
+      "min": "50",
+      "votes": "4464",
+      "reviews": "2250",
+      "rating": "3.5",
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": false
+    }
+    },
+    {
+      "name": "Ocean Grill",
+      "cat": "Continental, Seafood, North Indian, Asian",
+      "cost": "750",
+      "cost_for_two":"1500",
+      "time": "30",
+      "image": "https://b.zmtcdn.com/data/pictures/2/18259462/d1d7942ef7138aa9f4a199a85510326a_featured_v2.jpg",
+      "min": "55",
+      "votes": "1040",
+      "reviews": "1140",
+      "rating": "3.6",
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": false
+    }
+    },
+    {
+      "name": "Toit",
+      "cat": "Italian, American, Pizza",
+      "cost": "1000",
+      "cost_for_two":"2000",
+      "time": "30",
+      "image": "https://b.zmtcdn.com/data/pictures/5/51705/0511890ed0a7aebda1f1d9370d17b306_featured_v2.jpg",
+      "min": "65",
+      "votes": "10934",
+      "reviews": "11190",
+      "rating": "4.9",
+      "payment_methods": {
+        "card": false,
+        "cash": false,
+        "upi": true
+    }
+    }
+  ]
+  
