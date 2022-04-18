@@ -1,0 +1,23 @@
+.logos{
+    height:40px;
+    width: 40px;
+    margin-top:20px;
+}
+.card{
+    display: flex;
+   gap:150px;
+    border:1px solid black;
+    width:400px;
+    margin:50px;
+    background-color: rgb(255,165,0);
+}
+.casseStudy{
+    background-color: black;
+    color: white;
+    width:80px;
+    padding:5px;
+    margin-left:30px;
+}
+.deatails{
+    margin-left:30px;
+}

@@ -1,0 +1,33 @@
+
+
+[
+  {
+       "id":"0",
+     "CaseStudy":"Case Study",
+       "name":"Amazon Gift Pay",
+       "Desktop":"Desktop-Mobile",
+       "logo":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Amazon_icon.svg",
+       "date":"20/10/2020"
+
+    },
+    {
+        "id":"1",
+        "CaseStudy":"Case Study",
+        "name":"Apple Gift PAYMENT",
+        "Desktop":"MacOS-Mobile",
+        "logo":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+        "date":"17 Sep 2020"
+         
+     }, {
+        "id":"1",
+        "CaseStudy":"Case Study",
+        "name":"Apple Gift PAYMENT",
+        "Desktop":"MacOS-Mobile",
+        "logo":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+        "date":"17 Sep 2020"
+         
+     }
+    
+
+
+]
